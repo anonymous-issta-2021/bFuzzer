@@ -1,0 +1,27 @@
+Time used until input was generated: 1.080072
+'N'
+
+Time used until input was generated: 2.395829
+','
+
+Time used until input was generated: 3.467887
+'"'
+
+Time used until input was generated: 7.409266
+'5"'
+
+Time used until input was generated: 8.579165
+'\n'
+
+Time used until input was generated: 36.840641
+'5H""'
+
+Time used until input was generated: 46.071449
+'5H,"'
+
+Time used until input was generated: 59.524003
+'5H\n",'
+
+Time used until input was generated: 341.740040
+'5H\n,\n""5\r'
+

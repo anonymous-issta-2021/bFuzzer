@@ -1,0 +1,51 @@
+Time used until input was generated: 5.502484
+'N'
+
+Time used until input was generated: 11.470122
+'q'
+
+Time used until input was generated: 17.108136
+'"'
+
+Time used until input was generated: 22.494455
+'\n'
+
+Time used until input was generated: 34.544819
+'Hm'
+
+Time used until input was generated: 39.770054
+'5'
+
+Time used until input was generated: 56.541847
+"'"
+
+Time used until input was generated: 73.486872
+'aaaaaaaaaa'
+
+Time used until input was generated: 177.468615
+'R*G'
+
+Time used until input was generated: 193.795316
+'$'
+
+Time used until input was generated: 209.354050
+'6s'
+
+Time used until input was generated: 215.079399
+'_'
+
+Time used until input was generated: 226.775249
+'j\x0b'
+
+Time used until input was generated: 232.094638
+' '
+
+Time used until input was generated: 238.515081
+'R~s'
+
+Time used until input was generated: 263.524908
+'R&\nY'
+
+Time used until input was generated: 2023.479886
+'R&(+""/\'H\'>(5^--4.5e2))'
+
